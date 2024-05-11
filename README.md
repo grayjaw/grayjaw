@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @grayjaw
+- 👋 Hi, I’m @mugishaeric
 - 👀 I’m interested in web dev and programming
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on developing different computer based project
-- 📫 reach me on social by @grayjaw
+- 📫 reach me on social by @eric.programmer
 
 
 <!---
